@@ -1,5 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
+url: https://heehotranslations.github.io/
 theme: jekyll-theme-slate
-title: myCustomTitle
-description: myCustomAndDetailedDescription
+title: Hee Ho Translations
+description: Sitio Oficial
