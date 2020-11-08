@@ -2,5 +2,6 @@
 baseurl: ""
 url: https://heehotranslations.github.io/
 theme: jekyll-theme-slate
-title: Hee Ho Translations
+name: hee ho translations
+title: null
 description: Sitio Oficial
