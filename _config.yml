@@ -1,5 +1,3 @@
 # SITE CONFIGURATION
 baseurl: ""
 theme: jekyll-theme-slate
-title: myCustomTitle
-description: myCustomAndDetailedDescription
