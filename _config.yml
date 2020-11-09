@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: ''
 url: https://heehotranslations.github.io/
-theme: jekyll-theme-slate
+theme: jekyll-theme-leap-day
 title: Hee Ho Translations
 description: Traducción de videojuegos al español.
 sidebars:
