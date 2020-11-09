@@ -3,6 +3,6 @@ baseurl: ''
 url: https://heehotranslations.github.io/
 theme: jekyll-theme-leap-day
 title: Hee Ho Translations
-description: Traducción de videojuegos al español.
+description: Traducción de videojuegos al español
 sidebars:
 - navigation.yml
